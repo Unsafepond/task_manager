@@ -1,0 +1,12 @@
+---
+tasks:
+- id: 1
+  title: Drink coffee
+  description: With a french press.
+- id: 2
+  title: Go to the store.
+  description: "Buy bananas and apples\r\n"
+- id: 3
+  title: Eat ice cream.
+  description: "Vanilla and chocolate.\r\n\r\n"
+total: 3
